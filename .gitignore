@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Output laporan
+output/*.txt
+
+# File sistem
+.DS_Store
+Thumbs.db
